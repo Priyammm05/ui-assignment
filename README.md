@@ -1,16 +1,18 @@
 # feed
 
-A new Flutter project.
+UI - ASSIGNMENT
 
-## Getting Started
+![image](https://github.com/Priyammm05/ui-assignment/assets/80326453/ef56964e-0729-4a13-814c-6c4fb4ab0d66)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Running client side 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  ```
+  # To run the flutter application one should must have FLUTTER SDK installed in their system 
+  
+  flutter pub get
+  open web simulator from IDE
+  flutter run
+  
+  ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
